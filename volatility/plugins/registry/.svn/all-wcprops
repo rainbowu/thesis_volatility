@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2608/branches/2.3-devel/volatility/plugins/registry
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/registry/__init__.py
+END
+hivescan.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/registry/hivescan.py
+END
+registryapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2306/branches/2.3-devel/volatility/plugins/registry/registryapi.py
+END
+shimcache.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/registry/shimcache.py
+END
+shellbags.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2608/branches/2.3-devel/volatility/plugins/registry/shellbags.py
+END
+lsadump.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/registry/lsadump.py
+END
+printkey.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2565/branches/2.3-devel/volatility/plugins/registry/printkey.py
+END
+hivelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/registry/hivelist.py
+END

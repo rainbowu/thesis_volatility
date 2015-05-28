@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/overlays/windows
+END
+win2003_sp12_x86_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp12_x86_syscalls.py
+END
+tcpip_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/tcpip_vtypes.py
+END
+xp_sp2_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/xp_sp2_x86_vtypes.py
+END
+windows.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/overlays/windows/windows.py
+END
+xp_sp3_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/xp_sp3_x86_vtypes.py
+END
+xp_sp2_x86_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/xp_sp2_x86_syscalls.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/__init__.py
+END
+win2003_sp1_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp1_x64_vtypes.py
+END
+win2003_sp2_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp2_x64_vtypes.py
+END
+win2003_sp0_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp0_x86_vtypes.py
+END
+win2003_sp1_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp1_x86_vtypes.py
+END
+win2003_sp2_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp2_x86_vtypes.py
+END
+win7_sp01_x64_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win7_sp01_x64_syscalls.py
+END
+win2003_sp0_x86_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp0_x86_syscalls.py
+END
+kpcr_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/kpcr_vtypes.py
+END
+win7_sp01_x86_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win7_sp01_x86_syscalls.py
+END
+vista_sp12_x64_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp12_x64_syscalls.py
+END
+crash_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/crash_vtypes.py
+END
+hibernate_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/hibernate_vtypes.py
+END
+vista_sp12_x86_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp12_x86_syscalls.py
+END
+kdbg_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/kdbg_vtypes.py
+END
+vista_sp0_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp0_x64_vtypes.py
+END
+win7.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/overlays/windows/win7.py
+END
+vista_sp1_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp1_x64_vtypes.py
+END
+vista_sp2_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp2_x64_vtypes.py
+END
+vista_sp0_x64_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp0_x64_syscalls.py
+END
+vista_sp0_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp0_x86_vtypes.py
+END
+vista_sp1_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp1_x86_vtypes.py
+END
+vista_sp2_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp2_x86_vtypes.py
+END
+vista_sp0_x86_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista_sp0_x86_syscalls.py
+END
+win2003.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003.py
+END
+windows64.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/windows64.py
+END
+pe_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/pe_vtypes.py
+END
+win7_sp0_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win7_sp0_x64_vtypes.py
+END
+win7_sp1_x64_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win7_sp1_x64_vtypes.py
+END
+win7_sp0_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win7_sp0_x86_vtypes.py
+END
+win2003_sp12_x64_syscalls.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win2003_sp12_x64_syscalls.py
+END
+win7_sp1_x86_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/win7_sp1_x86_vtypes.py
+END
+vista.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/vista.py
+END
+xp.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/xp.py
+END
+ssdt_vtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2305/branches/2.3-devel/volatility/plugins/overlays/windows/ssdt_vtypes.py
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2659/branches/2.3-devel
+END
+pyinstaller.spec
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2305/branches/2.3-devel/pyinstaller.spec
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2305/branches/2.3-devel/LICENSE.txt
+END
+LEGAL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2305/branches/2.3-devel/LEGAL.txt
+END
+AUTHORS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2305/branches/2.3-devel/AUTHORS.txt
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2305/branches/2.3-devel/CHANGELOG.txt
+END
+vol.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2497/branches/2.3-devel/vol.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2533/branches/2.3-devel/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2305/branches/2.3-devel/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2565/branches/2.3-devel/MANIFEST.in
+END
+CREDITS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2305/branches/2.3-devel/CREDITS.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2305/branches/2.3-devel/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2305/branches/2.3-devel/Makefile
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2533/branches/2.3-devel/contrib/plugins
+END
+verinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/verinfo.py
+END
+pagecheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/pagecheck.py
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/example.py
+END
+scanprof.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/scanprof.py
+END
+disablewarnings.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/disablewarnings.py
+END
+enumfunc.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/enumfunc.py
+END
+psdispscan.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2305/branches/2.3-devel/contrib/plugins/psdispscan.py
+END

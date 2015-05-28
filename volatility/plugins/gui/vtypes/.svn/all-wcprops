@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes
+END
+win7_sp0_x86_vtypes_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/win7_sp0_x86_vtypes_gui.py
+END
+win7_sp1_x86_vtypes_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/win7_sp1_x86_vtypes_gui.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/__init__.py
+END
+win2003.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/win2003.py
+END
+win7.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/win7.py
+END
+win7_sp0_x64_vtypes_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/win7_sp0_x64_vtypes_gui.py
+END
+win7_sp1_x64_vtypes_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/win7_sp1_x64_vtypes_gui.py
+END
+vista.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/vista.py
+END
+xp.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2404/branches/2.3-devel/volatility/plugins/gui/vtypes/xp.py
+END
